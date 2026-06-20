@@ -1,4 +1,4 @@
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/0aca2d25-c1b9-45ba-bfb3-e6efa5bae70c" /># 🤖 Sistem NLP/LLM Pribadi - UAS
+# 🤖 Sistem NLP/LLM Pribadi - UAS
 
 Proyek UAS berbasis sistem **NLP/LLM** yang mengintegrasikan **LangChain**, **LangGraph**, dan **LangSmith** dalam satu aplikasi terpadu.
 
@@ -80,8 +80,7 @@ pip install -r requirements.txt
 ```bash
 cp .env.example .env
 # Edit .env dan isi API keys:
-# - OPENAI_API_KEY
-# - LANGCHAIN_API_KEY (dari smith.langchain.com)
+# - GROQ_API_KEY 
 ```
 
 ### 4. Jalankan Demo CLI
@@ -121,7 +120,7 @@ LangSmith memberikan visibilitas penuh ke dalam sistem:
 
 | Item | Detail |
 |------|--------|
-| Nama | [Nama Mahasiswa] |
-| NIM | [NIM] |
+| Nama | [M.TEGUH WIJAKSONO] |
+| NIM | [223510424] |
 | Mata Kuliah | Pemrosesan Bahasa Alami / NLP |
 | Jenis Tugas | UAS — Sistem NLP/LLM Pribadi |
