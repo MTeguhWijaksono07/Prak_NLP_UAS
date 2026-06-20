@@ -1,4 +1,4 @@
-# 🤖 Sistem NLP/LLM Pribadi - UAS
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/0aca2d25-c1b9-45ba-bfb3-e6efa5bae70c" /># 🤖 Sistem NLP/LLM Pribadi - UAS
 
 Proyek UAS berbasis sistem **NLP/LLM** yang mengintegrasikan **LangChain**, **LangGraph**, dan **LangSmith** dalam satu aplikasi terpadu.
 
@@ -38,6 +38,8 @@ Proyek UAS berbasis sistem **NLP/LLM** yang mengintegrasikan **LangChain**, **La
 │  └──────────────────────────────────────┘   │
 └─────────────────────────────────────────────┘
 ```
+## 📁 Aplikasi
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/cc010c94-6e1e-4375-9852-81539f5e5e34" />
 
 ## 📁 Struktur Proyek
 
